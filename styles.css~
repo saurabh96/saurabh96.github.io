@@ -1,4 +1,10 @@
-.h1
+*{
+font-family: 'Cinzel', serif;
+}
+
+
+h1
 {
+
 font-size : 40px;
 }
